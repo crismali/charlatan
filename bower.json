@@ -1,0 +1,22 @@
+{
+  "name": "charlatan",
+  "main": "lib/charlatan.js",
+  "version": "0.1.9",
+  "homepage": "https://github.com/nodeca/charlatan",
+  "authors": [
+    "vitaly@rcdesign.ru"
+  ],
+  "description": "Fake identities generator for node.js (names, addresses, phones, IPs and others). Supports multiple languages.",
+  "keywords": [
+    "charlatan",
+    "faker",
+    "fake",
+    "dummy",
+    "identity",
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+  ]
+}
